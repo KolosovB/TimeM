@@ -1,0 +1,22 @@
+Geschäftsführung:
+
+joerg.finck@finck-maier-consulting.de
+olga.maier@finck-maier-consulting.de
+123admin321
+
+
+Alle Anderen Mitarbeiter:
+
+sabine.mueller@finck-maier-consulting.de
+123user321
+
+Buchhaltung:
+
+laura.schmitz@finck-maier-consulting.de
+123suser321
+
+
+
+tobias.schmit@finck-maier-consulting.de //GEBLOCKT
+123user321
+
